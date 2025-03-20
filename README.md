@@ -160,21 +160,5 @@ The model we've made has the following attributes:
 * PCOS-Survey/PCOSData. (2017). GitHub. Retrieved 30 November 2017, from https://github.com/PCOSSurvey/PCOSData
 
 
-## Screenshots
-
-<img src="screenshots/Capture.PNG" width="300">
-<img src="screenshots/AItools.PNG" width="300">
-<img src="screenshots/consult.PNG" width="300">
-<img src="screenshots/features.PNG" width="300">
-<img src="screenshots/trackerss.png" width="300">
-<img src="screenshots/videocall.PNG" width="300">
-
-
-
-## Team HackDivas
-
-* Priyanshi Sharma
-* Anjali Patle
-* Sakshi Bhandarkar
 
 ### More power to women!
